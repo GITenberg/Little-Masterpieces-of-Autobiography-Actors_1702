@@ -1,0 +1,27 @@
+_repo: Little-Masterpieces-of-Autobiography-Actors_1702
+creator:
+  author:
+    agent_name: Iles, George
+    birthdate: 1852
+    deathdate: 1942
+    gutenberg_agent_id: '697'
+    url: http://www.gutenberg.org/2009/agents/697
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Actors -- Biography'
+- !lcsh 'Autobiographies'
+tableOfContents: Joseph Jefferson -- Edwin Booth -- Charlotte Cushman -- Clara Morris
+  -- Sir Henry Irving -- Henry Brodribb Irving -- Ellen Terry -- Richard Mansfield
+  -- Tommaso Salvini -- Adelaide Ristori.
+title: 'Little Masterpieces of Autobiography: Actors'
+url: http://www.gutenberg.org/ebooks/1702
