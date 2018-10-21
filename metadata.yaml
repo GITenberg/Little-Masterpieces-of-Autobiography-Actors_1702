@@ -1,5 +1,5 @@
 _repo: Little-Masterpieces-of-Autobiography-Actors_1702
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcc 'CT'
 - !lcsh 'Actors -- Biography'
 - !lcsh 'Autobiographies'
+- GITenberg
 tableOfContents: Joseph Jefferson -- Edwin Booth -- Charlotte Cushman -- Clara Morris
   -- Sir Henry Irving -- Henry Brodribb Irving -- Ellen Terry -- Richard Mansfield
   -- Tommaso Salvini -- Adelaide Ristori.
